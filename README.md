@@ -8,7 +8,7 @@ This repository implements a secure communication mechanism using RSA for key ex
 - **Padding**: Implements PKCS#7 padding for AES encryption compatibility.
 - **Cryptographic Best Practices**: Follows modern cryptographic standards using the `cryptography` library.
 
-## Getting Started
+## Getting Started.
 1. Install the required library:
    ```bash
    pip install cryptography
